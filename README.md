@@ -1,5 +1,3 @@
-Portifolio
-
 Este é o meu portfólio, atualmente em fase de planejamento e desenvolvimento. No momento, o protótipo está disponível no Figma para visualização e feedback.
 
 👉 [Acesse o protótipo aqui](https://www.figma.com/design/hIznrinvtoIqDLvTC4qaRd/Prototipo-Portifólio-Victor?node-id=0-1&p=f)
